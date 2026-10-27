@@ -1,0 +1,22 @@
+header, footer {
+    background-color: #E3E8D1;
+}
+
+main {
+    background-color: #E8DCC8;
+}
+
+body {
+    font-family: Hevetica, Arial;
+}
+
+.book-title {
+    font-style: italic;
+}
+
+h1, h2, h3, h4 {
+    color: #899461;
+}
+
+
+
